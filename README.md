@@ -1,2 +1,2 @@
 # Myfirstgitrepodemo
-Hello how is it now going with GitHub
+This site was built using [GitHub Pages](https://pages.github.com/).
