@@ -1,2 +1,2 @@
 
-![PT process in Agile](Performance Testing in Agile Process.png)
+![PT process in Agile](Agile_PT.PNG)
