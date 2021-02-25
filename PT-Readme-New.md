@@ -1,2 +1,2 @@
 
-![PT process in Agile](Agile_PT.PNG)
+![PT process in Agile] (Agile_PT.PNG)
