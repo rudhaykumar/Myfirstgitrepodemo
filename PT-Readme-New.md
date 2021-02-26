@@ -1,7 +1,7 @@
 # Contents
 
 - [Glossary](#glossary)
-- [Levels of Performance Testing]
+- [Levels of Performance Testing] (#how-to-build)
   - [How to build](#how-to-build)
   - Build requirements](#build-requirements)
   - [How to build](#how-to-build)
