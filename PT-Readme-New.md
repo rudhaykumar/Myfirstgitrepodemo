@@ -6,7 +6,7 @@
          environments. Performance testing in an agile project environment allows to manage the testing in a highly flexible way and Iterative testing approach leads to better
          code that is optimized for performance.</P>
       
-     ![PT process in Agile](./Folder/Agile_PT_Process.png)
+     
      
 - ## Levels of Performance Testing
   - **Unit Code Level**   :Performance testing of individual methods
