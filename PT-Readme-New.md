@@ -22,8 +22,7 @@
   - Test scripts
   - Test data -  Transactional and Volumetric
  
-
-Exit Criteria : 
+- ## Exit Criteria : 
 
 Tests have been run and System performance has been assessed  and fine tuned according to the goals of the testing and goals are achieved.
 Test report is written and passed to relevant people. 
