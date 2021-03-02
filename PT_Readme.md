@@ -29,6 +29,6 @@
   
   
 -  ## Templates : 
-      - NFR Template - [Here](myLib/README.md)
+      - API NFR Template - [Here](PT_Template_NFR-API.md)
       - Test Report Template
 
