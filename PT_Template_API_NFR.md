@@ -14,5 +14,8 @@
          - Max TPS :
          - Acceptable failure % : 
          - Avg Response Time : 
-         - 99% Response Time : 
-
+         - 99% Response Time :          
+     - ###  Base Data Requirements
+        - Current Volume :   
+        - Growth rate :
+        - Expected Volume :       
