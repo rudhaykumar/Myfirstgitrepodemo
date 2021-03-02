@@ -24,6 +24,11 @@
  
 - ## Exit Criteria : 
 
-  - Tests have been run and System performance has been assessed  and fine tuned according to the goals of the testing and goals are achieved.
+  - Tests have been run and System performance has been assessed  and fine tuned according to the goals of the testing and  goals / objectives are achieved.
   - Test report is written and passed to relevant people. 
+  
+  
+-  ## Templates : 
+      - NFR Template
+      - Test Report Template
 
