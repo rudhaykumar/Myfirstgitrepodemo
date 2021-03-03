@@ -7,17 +7,15 @@
     - RAG Status :
     - PT Bug (if any) : 
  - ## Application-side Metrics
-    - Transaction / API  Name :
-      - Minimum Response Time :
-      - Average Response :
-      - Maximum Response Time :
-      - 90 % Response Time :
-      - Pass :
-      - Fail :
-     - Response Time Summary :   
+   - Response Time Summary :   
      
        ![Response Time - Summary](./Images/ResponseTime_Summary_TestName_BuildName_DataeandTime.PNG) 
        
+   - Response Time and TPS Comparison :
+    
+      ![Response Time and TPS - Comparison](./Images/ResponseTime_Summary_TestName_BuildName_DataeandTime.PNG) 
+     
+
  - ## Server-side Metrics 
    - Database Server :
      - CPU and Memory : Sample image given below.Add observations on CPU and Memory utilisation.
