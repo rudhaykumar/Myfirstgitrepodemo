@@ -13,7 +13,7 @@
        
    - Response Time and TPS Comparison :
     
-      ![Response Time and TPS - Comparison](./Images/TPS and ResponseTime_Comparison_TestName_BuildName_DataeandTime.png) 
+      ![Response Time and TPS - Comparison](./Images/TPSandResponseTime_Comparison_TestName_BuildName_DataeandTime.png) 
      
 
  - ## Server-side Metrics 
