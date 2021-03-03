@@ -19,6 +19,6 @@
      - CPU and Memory : Observations
       ![Mongo DB CPU and Memory - Sample Image](./Images/MongoDB_Perf_TestName_BuildNo_CPUandMemory_DateandTime.png)
      - DB Connections and Queues : Observations
-      ![Mongo DB Connections and Queues - Sample Image](./Images/MongoDB_Perf_TestName_BuildNo_CPUandMemory_DateandTime.png)
+      ![Mongo DB Connections and Queues - Sample Image](./Images/MongoDB_Perf_TestName_BuildNo_QueuesandConnections_DateandTime.png)
    - Application Server  :
 
