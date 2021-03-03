@@ -11,7 +11,7 @@
      
        ![Response Time - Summary](./Images/ResponseTime_Summary_TestName_BuildName_DataeandTime.PNG) 
        
-   - Response Time and TPS Comparison :
+   - Response Time and TPS Comparison : sample image given below
     
       ![Response Time and TPS - Comparison](./Images/TPSandResponseTime_Comparison_TestName_BuildName_DataeandTime.png) 
      
