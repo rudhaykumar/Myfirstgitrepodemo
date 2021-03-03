@@ -21,7 +21,6 @@
      - DB Connections and Queues : Sample image given below. Add observations on DB connections and Queues behaviour.
       ![Mongo DB Connections and Queues - Sample Image](./Images/MongoDB_Perf_TestName_BuildNo_QueuesandConnections_DateandTime.png)
    - Application Server  :
-       - NewRelic Dashboard 
-        [NewRelic Dashboard](https://one.nr/0znQxNe4dRV)
-        Account service Dashboard given for reference.Add observations on CPU,Memory and JVM utilisation of Pods.
+       - NewRelic Dashboard - [NewRelic Dashboard Link](https://one.nr/0znQxNe4dRV)<br>
+        Account service Dashboard given for reference.Add observations on CPU,Memory and JVM utilisation of Pods.</br>
 
