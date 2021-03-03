@@ -15,7 +15,7 @@
       - Pass :
       - Fail :
      - Response Time Summary :
-       ![Response Time - Summary](./Images/MongoDB_Perf_TestName_BuildNo_CPUandMemory_DateandTime.png)
+       ![Response Time - Summary](./Images/ResponseTime_Summary_TestName_BuildName_DataeandTime.PNG)
  - ## Server-side Metrics
    - Database Server : <br>
      - CPU and Memory : Sample image given below.Add observations on CPU and Memory utilisation.
