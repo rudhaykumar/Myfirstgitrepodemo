@@ -7,7 +7,7 @@
     - RAG Status :
     - PT Bug (if any) : 
  - ## Application-side Metrics
-   - Response Time Summary :   
+   - Response Time Summary :   sample image given below
      
        ![Response Time - Summary](./Images/ResponseTime_Summary_TestName_BuildName_DataeandTime.PNG) 
        
