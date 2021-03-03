@@ -7,7 +7,7 @@
     - RAG Status :
     - PT Bug (if any) : 
  - ## Application-side Metrics
-    - Transaction Name :
+    - Transaction / API  Name :
       - Minimum Response Time :
       - Average Response :
       - Maximum Response Time :
@@ -15,5 +15,8 @@
       - Pass :
       - Fail :
  - ## Server-side Metrics
-
+   - Database Server :
+     - CPU and Memory : Observations
+     - DB Connections and Queues : Observations
+   - Application Server  :
 
