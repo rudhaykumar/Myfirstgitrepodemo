@@ -17,7 +17,7 @@
  - ## Server-side Metrics
    - Database Server :
      - CPU and Memory : Observations
-      ![Mongo DB CPU and Memory](./Images/Agile_PT_Process.png)
+      ![Mongo DB CPU and Memory](./Images/MongoDB_Perf_TestName_BuildNo_CPUandMemory_DateandTime.png)
      - DB Connections and Queues : Observations
    - Application Server  :
 
