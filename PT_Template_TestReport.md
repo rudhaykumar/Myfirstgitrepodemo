@@ -18,15 +18,18 @@
             -  Median Response Time:
             -  90% Response Time:
             -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
-
+             
         - #### API Name:
-            -  Pass:
-            -  Fail:
+            -  Pass count:
+            -  Fail count:
             -  TPS:
             -  Average Response Time:
             -  Median Response Time:
             -  90% Response Time:
-            -  Sta
+            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
+
+
+      
         
    - ### Response Time Summary :  
         [sample image given below]
