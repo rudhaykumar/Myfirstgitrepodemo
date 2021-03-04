@@ -6,7 +6,7 @@
     - Observations :
     - RAG Status :
     - PT Bug (if any) : 
-    - NFR's : [Test NFR](PT_Template_NFR-API.md) [ Provide link to the link to the Test NFR's .md file]
+    - NFR's : [Test NFR](PT_Template_NFR-API.md) [ Provide link to the Test NFR's .md file]
     
  - ## Application-side Metrics
    - ### API Response Time and TPS:
