@@ -34,7 +34,7 @@
    - ### Response Time Summary :  
         [sample image given below]
      
-       ![Response Time - Summary](./Images/ResponseTime_Summary_TestName_BuildName_DataeandTime.PNG) 
+       ![Response Time - Summary](./Images/webservice/ResponseTime_Summary_TestName_BuildName_DataeandTime.PNG) 
        
   - ## Server-side Metrics 
 
