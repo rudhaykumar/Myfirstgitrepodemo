@@ -30,5 +30,5 @@
   
 -  ## Templates : 
       - API NFR Template - [Here](PT_Template_NFR-API.md)
-      - Test Report Template - [Here](PT_Template_NFR-API.md)
+      - Test Report Template - [Here](PT_Template_TestReport.md)
 
