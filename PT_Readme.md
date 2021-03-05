@@ -1,7 +1,7 @@
 - ## Performance Testing in Agile Process
      <P> The main reason of point and the advantage of doing the performance testing in agile process is to save time factor and to have performance testing in early life cycle of          SDLC .Performance testing is one of the single biggest catalysts to significant changes in architecture, code, hardware and environments. Performance testing in an agile          project environment allows to manage the testing in a highly flexible way and Iterative testing approach leads to better code that is optimized for performance.Thus,to            performance test the available code, analyze and fix performance bottlenecks as soon as the code/componet is ready is inevitable.</p>
      
-     ![PT process in Agile](Agile_PT_Process.png)
+     ![PT process in Agile](./Images/Agile_PT_Process.png)
      
 - ## Levels of Performance Testing
   - **Unit Code Level**   :Performance testing of individual methods
@@ -30,5 +30,5 @@
   
 -  ## Templates : 
       - API NFR Template - [Here](PT_Template_NFR-API.md)
-      - Test Report Template
+      - Test Report Template - [Here](PT_Template_NFR-API.md)
 
