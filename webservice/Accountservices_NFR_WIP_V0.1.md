@@ -114,7 +114,8 @@
          - Comments - card count check every 30 minutes
       
   - ## Base Data Requirements
-       - ### Base  Data -  Please specify the Number of registered customers in Pluto system
-        - #### Current Volume :   
-        - ##### Growth rate :
-        - ##### Expected Volume :       
+       - #### Base  Data -  Please specify the Number of registered customers in Pluto system
+         - Current Volume :   
+         - Growth rate :
+         - Expected Volume :   
+         - Comments :   
