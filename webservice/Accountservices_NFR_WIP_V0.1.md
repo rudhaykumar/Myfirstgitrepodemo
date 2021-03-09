@@ -55,23 +55,24 @@
          - Avg Response Time : 0.46
          - 99% Response Time : 0.67  
          - Comments - Same as Sparks Peak Volume
-- ## 4. API Name :
+         
+- ## 4. API Name : POST_sparks_account
   - Source system : Ecom/App
   - Micro Service Name : Account services
-  - Key Functionality : 
+  - Key Functionality : Create the sparks account for the given customerId and identityType 
     - ### BAU Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
-         - Comments: 70 % TPH of Peak is considered for BAU Volume
+         - TPH : 770
+         - Max TPS : 0.5
+         - Acceptable failure % : <<-TBF->>
+         - Avg Response Time : <1.1
+         - 99% Response Time : <1.5
+         - Comments: 70 % TPH of Peak is considered for BAU Volume         
      - ### Peak Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time :   
+         - TPH : 1100
+         - Max TPS : 0.06 [ 20 % of TPS]
+         - Acceptable failure % : 4.5 %
+         - Avg Response Time : 1.1
+         - 99% Response Time : 1.5
          - Comments - Same as Sparks Peak Volume
 - ## 5. API Name :
   - Source system : Ecom/App
