@@ -5,22 +5,23 @@
   - Key Functionality : Interact with a sparks account details based on a unique Account ID and Returns the Basic Sparks Account details
     - ### BAU Volumetric
          - TPH : 145209.4
-         - Max TPS : <TBF>
-         - Acceptable failure % : <TBF> 
+         - Max TPS : <<-TBF->>
+         - Acceptable failure % : <<-TBF->> 
          - Avg Response Time : < 1 sec
          - 99% Response Time : < 1sec
          - Comments: 70 % TPH of Peak is considered for BAU Volume
      - ### Peak Volumetric
          - TPH : 207442
          - Max TPS : 11.5
-         - Acceptable failure % : <TBF>
-         - Avg Response Time : < 1 sec
-         - 99% Response Time : < 1sec
+         - Acceptable failure % : <<-TBF->>
+         - Avg Response Time : < 0.5 sec
+         - 99% Response Time : < 0.7 sec
          - Comments : Ireland Volume = 30 % UK Volume of GET_sparks_account_details API and Germany Volume = 10 % of UK Volume  of GET_sparks_account_details API
-- ## 2. API Name :
-  - Source system :
-  - Micro Service Name :
-  - Key Functionality : 
+         
+- ## 2. API Name :PATCH_sparks_account
+  - Source system :Ecom/App
+  - Micro Service Name :Account services
+  - Key Functionality : Create or Update or remove the sparks account custom attribute/charity/card details for the given accountId.
     - ### BAU Volumetric
          - TPH :
          - Max TPS :
@@ -28,12 +29,12 @@
          - Avg Response Time : 
          - 99% Response Time :
      - ### Peak Volumetric
-         - TPH :
-         - Max TPS :
+         - TPH : 440 
+         - Max TPS : 3.45
          - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
-         -
+         - Avg Response Time : <1.1 sec
+         - 99% Response Time : < 1.5 sec
+         - Comments: Ireland Volume = 30 % UK Volume of POST_sparks_account API anf Germany Volume = 10 % of UK Volume of POST_sparks_account API
 - ## 1. API Name :
   - Source system :
   - Micro Service Name :
