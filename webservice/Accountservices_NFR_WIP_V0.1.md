@@ -23,16 +23,17 @@
   - Micro Service Name :Account services
   - Key Functionality : Create or Update or remove the sparks account custom attribute/charity/card details for the given accountId.
     - ### BAU Volumetric
-         - TPH :
-         - Max TPS :
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time :
+         - TPH : 308
+         - Max TPS : <<-TBF->>
+         - Acceptable failure % : <<-TBF->>
+         - Avg Response Time : < 1.1 sec
+         - 99% Response Time : < 1.5 sec
+         - Comments: 70 % TPH of Peak is considered for BAU Volume
      - ### Peak Volumetric
          - TPH : 440 
          - Max TPS : 3.45
-         - Acceptable failure % : 
-         - Avg Response Time : <1.1 sec
+         - Acceptable failure % : <<-TBF->>
+         - Avg Response Time : < 1.1 sec
          - 99% Response Time : < 1.5 sec
          - Comments: Ireland Volume = 30 % UK Volume of POST_sparks_account API anf Germany Volume = 10 % of UK Volume of POST_sparks_account API
 - ## 1. API Name :
