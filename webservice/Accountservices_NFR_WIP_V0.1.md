@@ -5,7 +5,7 @@
   - Key Functionality : Interact with a sparks account details based on a unique Account ID and Returns the Basic Sparks Account details
     - ### BAU Volumetric
          - TPH : 145209.4
-         - Max TPS : <<-TBF->>
+         - Max TPS : 8
          - Acceptable failure % : <<-TBF->> 
          - Avg Response Time : < 1 sec
          - 99% Response Time : < 1sec
@@ -24,7 +24,7 @@
   - Key Functionality : Create or Update or remove the sparks account custom attribute/charity/card details for the given accountId.
     - ### BAU Volumetric
          - TPH : 308
-         - Max TPS : <<-TBF->>
+         - Max TPS : 1
          - Acceptable failure % : <<-TBF->>
          - Avg Response Time : < 1.1 sec
          - 99% Response Time : < 1.5 sec
@@ -43,7 +43,7 @@
   - Key Functionality : Returns the Basic Sparks Account details by Customer Id and Identity Type
     - ### BAU Volumetric
          - TPH : 290418.8
-         - Max TPS : <<-TBF->>
+         - Max TPS : 16
          - Acceptable failure % : 0.2 % 
          - Avg Response Time : <0.46
          - 99% Response Time : < 0.67
