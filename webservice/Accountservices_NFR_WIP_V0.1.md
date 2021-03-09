@@ -1,0 +1,56 @@
+
+- ## 1. API Name : GET_sparks_account_details_id
+  - Source system : Ecom/App
+  - Micro Service Name : Account services
+  - Key Functionality : Interact with a sparks account details based on a unique Account ID and Returns the Basic Sparks Account details
+    - ### BAU Volumetric
+         - TPH :
+         - Max TPS :
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time :
+         - Comments
+     - ### Peak Volumetric
+         - TPH : 207442
+         - Max TPS : 11.5
+         - Acceptable failure % : 
+         - Avg Response Time : < 1 sec
+         - 99% Response Time : < 1sec
+         - Comments : Ireland Volume = 30 % UK Volume of GET_sparks_account_details API and Germany Volume = 10 % of UK Volume  of GET_sparks_account_details API
+  - ## 2. API Name :
+  - Source system :
+  - Micro Service Name :
+  - Key Functionality : 
+    - ### BAU Volumetric
+         - TPH :
+         - Max TPS :
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time :
+     - ### Peak Volumetric
+         - TPH :
+         - Max TPS :
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         -
+  - ## 1. API Name :
+  - Source system :
+  - Micro Service Name :
+  - Key Functionality : 
+    - ### BAU Volumetric
+         - TPH :
+         - Max TPS :
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time :
+     - ### Peak Volumetric
+         - TPH :
+         - Max TPS :
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time :               
+     - ###  Base Data Requirements
+        - Current Volume :   
+        - Growth rate :
+        - Expected Volume :       
