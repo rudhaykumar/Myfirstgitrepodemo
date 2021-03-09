@@ -4,16 +4,16 @@
   - Micro Service Name : Account services
   - Key Functionality : Interact with a sparks account details based on a unique Account ID and Returns the Basic Sparks Account details
     - ### BAU Volumetric
-         - TPH :
-         - Max TPS :
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time :
-         - Comments
+         - TPH : 145209.4
+         - Max TPS : <TBF>
+         - Acceptable failure % : <TBF> 
+         - Avg Response Time : < 1 sec
+         - 99% Response Time : < 1sec
+         - Comments: 70 % TPH of Peak is considered for BAU Volume
      - ### Peak Volumetric
          - TPH : 207442
          - Max TPS : 11.5
-         - Acceptable failure % : 
+         - Acceptable failure % : <TBF>
          - Avg Response Time : < 1 sec
          - 99% Response Time : < 1sec
          - Comments : Ireland Volume = 30 % UK Volume of GET_sparks_account_details API and Germany Volume = 10 % of UK Volume  of GET_sparks_account_details API
