@@ -36,23 +36,27 @@
          - Avg Response Time : < 1.1 sec
          - 99% Response Time : < 1.5 sec
          - Comments: Ireland Volume = 30 % UK Volume of POST_sparks_account API anf Germany Volume = 10 % of UK Volume of POST_sparks_account API
-- ## 1. API Name :
-  - Source system :
-  - Micro Service Name :
-  - Key Functionality : 
+         
+- ## 3. API Name :GET_sparks_account_details
+  - Source system : Ecom/App
+  - Micro Service Name : Account services
+  - Key Functionality : Returns the Basic Sparks Account details by Customer Id and Identity Type
     - ### BAU Volumetric
-         - TPH :
-         - Max TPS :
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time :
+         - TPH : 290418.8
+         - Max TPS : <<-TBF->>
+         - Acceptable failure % : 0.2 % 
+         - Avg Response Time : <0.46
+         - 99% Response Time : < 0.67
+         - Comments: 70 % TPH of Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH :
-         - Max TPS :
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time :               
-     - ###  Base Data Requirements
+         - TPH : 414884
+         - Max TPS : 23.09 [ 20 % of TPS]
+         - Acceptable failure % : 0.2 %
+         - Avg Response Time : 0.46
+         - 99% Response Time : 0.67  
+         - Comments - Same as Sparks Peak Volume
+      
+  - ## Base Data Requirements
         - Current Volume :   
         - Growth rate :
         - Expected Volume :       
