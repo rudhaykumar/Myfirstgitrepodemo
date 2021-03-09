@@ -74,44 +74,47 @@
          - Avg Response Time : 1.1
          - 99% Response Time : 1.5
          - Comments - Same as Sparks Peak Volume
-- ## 5. API Name :
+         
+- ## 5. API Name : GET_sparks_charity_details_of_the_customer
   - Source system : Ecom/App
   - Micro Service Name : Account services
-  - Key Functionality : 
+  - Key Functionality : Returns the Charity details that contains the charityId and charitySelectedType
     - ### BAU Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 1368
+         - Max TPS : 0.07
+         - Acceptable failure % : 0.5 %
+         - Avg Response Time : < 0.26
+         - 99% Response Time : < 0.28
          - Comments: 70 % TPH of Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time :   
+         - TPH : 1995
+         - Max TPS : 0.1
+         - Acceptable failure % : 0.5 %
+         - Avg Response Time : 0.26
+         - 99% Response Time : 0.28
          - Comments - Same as Sparks Peak Volume
-- ## 6. API Name :
+         
+- ## 6. API Name : GET_sparks_card_count
   - Source system : Ecom/App
   - Micro Service Name : Account services
-  - Key Functionality : 
+  - Key Functionality : Returns the total count of the cards having the passed status value
     - ### BAU Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
-         - Comments: 70 % TPH of Peak is considered for BAU Volume
+         - TPH : 2
+         - Max TPS : <<-TBF->>
+         - Acceptable failure % : Nil
+         - Avg Response Time : <<-TBF->>
+         - 99% Response Time : <<-TBF->>
+         - Comments: card count check every 30 minutes
      - ### Peak Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time :   
-         - Comments - Same as Sparks Peak Volume
+         - TPH : 2
+         - Max TPS : <<-TBF->>
+         - Acceptable failure % : Nil
+         - Avg Response Time : <<-TBF->>
+         - 99% Response Time :  <<-TBF->>
+         - Comments - card count check every 30 minutes
       
   - ## Base Data Requirements
-        - Current Volume :   
-        - Growth rate :
-        - Expected Volume :       
+       - ### Base  Data -  Please specify the Number of registered customers in Pluto system
+        - #### Current Volume :   
+        - ##### Growth rate :
+        - ##### Expected Volume :       
