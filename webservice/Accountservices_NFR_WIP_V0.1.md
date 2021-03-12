@@ -11,12 +11,12 @@
          - 99% Response Time : < 1sec
          - Comments: 70 % TPH of Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 207442
-         - Max TPS : 11.5
-         - Acceptable failure % : <<-TBF->>
-         - Avg Response Time : 1 sec
-         - 99% Response Time : 1 sec
-         - Comments : Ireland Volume = 30 % UK Volume of GET_sparks_account_details API and Germany Volume = 10 % of UK Volume  of GET_sparks_account_details API
+         - TPH : 414884
+         - Max TPS : 23.09 [ 20 % of TPS]
+         - Acceptable failure % : 0.2 %
+         - Avg Response Time : 0.46 sec
+         - 99% Response Time : 0.67 sec
+         - Comments : Same as  GET_sparks_account_details API
          
 - ## 2. API Name :PATCH_sparks_account
   - Source system :Ecom/App
