@@ -6,10 +6,10 @@
     - ### BAU Volumetric
          - TPH : 290418.80
          - Max TPS : 16
-         - Acceptable failure % : 0.20 % 
+         - Acceptable failure % :< 0.20 % 
          - Avg Response Time : < 0.46 sec
          - 99% Response Time : < 0.67 sec
-         - Comments: 70 % TPH of Peak is considered for BAU Volume
+         - Comments: 70 % TPH of the below Peak is considered for BAU Volume
      - ### Peak Volumetric
          - TPH : 414884
          - Max TPS : 23.09 [ 20 % of TPS]
@@ -23,19 +23,19 @@
   - Micro Service Name :Account services
   - Key Functionality : Create or Update or remove the sparks account custom attribute/charity/card details for the given accountId.
     - ### BAU Volumetric
-         - TPH : 308
-         - Max TPS : 1
-         - Acceptable failure % : <<-TBF->>
-         - Avg Response Time : < 1 sec
-         - 99% Response Time : < 1 sec
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % : 
+         - Avg Response Time : < 
+         - 99% Response Time : < 
          - Comments: 70 % TPH of Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 440 
-         - Max TPS : 3.45
-         - Acceptable failure % : <<-TBF->>
-         - Avg Response Time :  1 sec
-         - 99% Response Time :  1 sec
-         - Comments: Ireland Volume = 30 % UK Volume of POST_sparks_account API anf Germany Volume = 10 % of UK Volume of POST_sparks_account API
+         - TPH : 1100
+         - Max TPS : 0.06
+         - Acceptable failure % : 4.50%
+         - Avg Response Time :  1.1 Sec
+         - 99% Response Time :  1.5 Sec
+         - Comments: Same as  POST_sparks_account
          
 - ## 3. API Name :GET_sparks_account_details
   - Source system : Ecom/App
