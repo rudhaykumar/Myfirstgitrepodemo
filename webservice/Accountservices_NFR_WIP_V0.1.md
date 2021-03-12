@@ -23,11 +23,11 @@
   - Micro Service Name :Account services
   - Key Functionality : Create or Update or remove the sparks account custom attribute/charity/card details for the given accountId.
     - ### BAU Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % : 
-         - Avg Response Time : < 
-         - 99% Response Time : < 
+         - TPH : 770
+         - Max TPS : 0.5
+         - Acceptable failure % : <4.50%
+         - Avg Response Time : < 1.1
+         - 99% Response Time : < 1.5
          - Comments: 70 % TPH of Peak is considered for BAU Volume
      - ### Peak Volumetric
          - TPH : 1100
@@ -35,7 +35,7 @@
          - Acceptable failure % : 4.50%
          - Avg Response Time :  1.1 Sec
          - 99% Response Time :  1.5 Sec
-         - Comments: Same as  POST_sparks_account
+         - Comments: Same as  POST_sparks_account API
          
 - ## 3. API Name :GET_sparks_account_details
   - Source system : Ecom/App
@@ -99,19 +99,19 @@
   - Micro Service Name : Account services
   - Key Functionality : Returns the total count of the cards having the passed status value
     - ### BAU Volumetric
-         - TPH : 2
-         - Max TPS : <<-TBF->>
+         - TPH : 6 [ Every 10 mins once]
+         - Max TPS : N/A
          - Acceptable failure % : Nil
          - Avg Response Time : <<-TBF->>
          - 99% Response Time : <<-TBF->>
-         - Comments: card count check every 30 minutes
+         - Comments: card count check every 10 minutes
      - ### Peak Volumetric
-         - TPH : 2
-         - Max TPS : <<-TBF->>
+         - TPH : 6 [ Every 10 mins once]
+         - Max TPS : N/A
          - Acceptable failure % : Nil
          - Avg Response Time : <<-TBF->>
          - 99% Response Time :  <<-TBF->>
-         - Comments - card count check every 30 minutes
+         - Comments - card count check every 10 minutes
       
   - ## Base Data Requirements
        - #### Base  Data -  Please specify the Number of registered customers
