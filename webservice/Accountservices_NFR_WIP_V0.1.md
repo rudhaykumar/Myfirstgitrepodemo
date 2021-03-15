@@ -104,14 +104,14 @@
          - Acceptable failure % : Nil
          - Avg Response Time : <<-TBF->>
          - 99% Response Time : <<-TBF->>
-         - Comments: card count check every 10 minutes
+         - Comments: card count check every 10 minutes.This is an operational purpose end point.
      - ### Peak Volumetric
          - TPH : 6 [ Every 10 mins once]
          - Max TPS : N/A
          - Acceptable failure % : Nil
          - Avg Response Time : <<-TBF->>
          - 99% Response Time :  <<-TBF->>
-         - Comments - card count check every 10 minutes
+         - Comments - card count check every 10 minutes. This is an operational purpose end point.
       
   - ## Base Data Requirements
        - #### Base  Data -  Please specify the Number of registered customers
