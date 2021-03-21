@@ -39,7 +39,7 @@
   - ## Server-side Metrics 
 
     - ### Application Server  :
-       - NewRelic Dashboard - [NewRelic Dashboard Link](https://gorgon.nr-assets.net/image/c86c9d96-7d80-4fe2-b80a-f31de816030a?format=pdf) 
+       - NewRelic Dashboard - [NewRelic Dashboard Link](https://gorgon.nr-assets.net/image/8a70c53e-1c72-432a-ab30-2ea4da1cb47a?format=PDF) 
        
        [ Account service Dashboard given for reference.Generate the PDF link and provide here .Add observations on CPU,Memory and JVM utilisation of Pods.]
  
