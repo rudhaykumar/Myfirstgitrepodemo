@@ -45,7 +45,7 @@
     - ### Database Server :
       - CPU and Memory : [Sample image given below.Add observations on CPU and Memory utilisation.]
       
-      ![Mongo DB CPU and Memory - Sample Image](../Images/MongoDB_Perf_TestName_BuildNo_CPUandMemory_DateandTime.png)
+      ![Mongo DB CPU and Memory - Sample Image](../Images/MongoDB_Perf_AccountServices_Peak Load_POD-toPOD_QueuesandConnections_DateandTime_17-Mar-2021.png)
       
       - DB Connections and Queues : [Sample image given below. Add observations on DB connections and Queues behaviour]. 
      
