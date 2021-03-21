@@ -33,7 +33,7 @@
         
    - ### Response Time Summary :  
         
-       ![Response Time - Summary](../Images/ResponseTime_Summary_AccountServices_PeakLoad.png) 
+       ![Response Time - Summary](../images/ResponseTime_Summary_AccountServices_PeakLoad.png) 
        
   - ## Server-side Metrics 
 
