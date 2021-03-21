@@ -32,9 +32,8 @@
       
         
    - ### Response Time Summary :  
-        [sample image given below]
-     
-       ![Response Time - Summary](../Images/ResponseTime_Summary_AccountServices_Peak Load_POD-toPOD_17-Mar-2021 .png) 
+        
+       ![Response Time - Summary](../Images/ResponseTime_Summary_AccountServices_Peak Load_POD-toPOD_17-Mar-2021.png) 
        
   - ## Server-side Metrics 
 
