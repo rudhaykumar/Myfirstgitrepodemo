@@ -6,7 +6,7 @@
     - Observations :  The 90% response time for Sparks Account Creation was 11 ms seconds and for all other API's it was less than 6 ms.506 TPS was achieved during the Peak load Test execution. The DB and Account Services CPU utilisation were less than 15%.
     - RAG Status : GREEN
     - PT Bug (if any) : N/A
-    - NFR's : [Test NFR](PT_Template_NFR-API.md) [ Provide link to the Test NFR's .md file]
+    - NFR's : [Test NFR](PT_Template_NFR-API.md) 
     
  - ## Application-side Metrics
    - ### API Response Time and TPS:
@@ -51,8 +51,7 @@
             -  Median Response Time: 5 ms 
             -  90% Response Time: 7 ms
             -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
-   
-        
+           
    - ### Response Time Summary :  
         
        ![Response Time - Summary](../Images/ResponseTime_Summary_AccountServices_PeakLoad.png) 
