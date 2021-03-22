@@ -50,7 +50,7 @@
             -  Average Response Time: 5 ms
             -  Median Response Time: 5 ms 
             -  90% Response Time: 7 ms
-            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
+            -  Status : Pass
            
    - ### Response Time Summary :  
         
@@ -59,7 +59,7 @@
   - ## Server-side Metrics 
 
     - ### Application Server  :
-       - NewRelic Dashboard - [NewRelic Dashboard Link](https://gorgon.nr-assets.net/image/8a70c53e-1c72-432a-ab30-2ea4da1cb47a?format=PDF) 
+       - NewRelic Dashboard - [NewRelic Dashboard - Account Services- Peak Load Test](https://gorgon.nr-assets.net/image/8a70c53e-1c72-432a-ab30-2ea4da1cb47a?format=PDF) 
               
     - ### Database Server :
       - CPU and Memory : 
