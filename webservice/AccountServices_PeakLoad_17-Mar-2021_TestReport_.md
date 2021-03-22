@@ -16,7 +16,7 @@
             -  TPS: 4.8
             -  Average Response Time:5 ms
             -  Median Response Time: 5 ms
-            -  90% Response Time: 216
+            -  90% Response Time: 7 ms
             -  Status : Pass
              
        - #### API Name: Get Sparks Account By ID
@@ -25,31 +25,31 @@
             -  TPS: 120.3
             -  Average Response Time: 5 ms
             -  Median Response Time: 5 ms
-            -  90% Response Time: 315 ms
+            -  90% Response Time: 7 ms
             -  Status : Pass
-       - #### API Name:
-            -  Pass count:
-            -  Fail count:
-            -  TPS:
-            -  Average Response Time:
-            -  Median Response Time:
-            -  90% Response Time:
-            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
-       - #### API Name:
-            -  Pass count:
-            -  Fail count:
-            -  TPS:
-            -  Average Response Time:
-            -  Median Response Time:
-            -  90% Response Time:
-            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
-       - #### API Name:
-            -  Pass count:
-            -  Fail count:
-            -  TPS:
-            -  Average Response Time:
-            -  Median Response Time:
-            -  90% Response Time:
+       - #### API Name: Get Sparks Account By ID & Identity Type
+            -  Pass count: 420721
+            -  Fail count: 0
+            -  TPS: 128.9
+            -  Average Response Time: 5 ms
+            -  Median Response Time: 5 ms
+            -  90% Response Time: 7 ms
+            -  Status : Pass
+       - #### API Name: Sparks Account Creation 
+            -  Pass count: 7726
+            -  Fail count: 0
+            -  TPS: 2.1 
+            -  Average Response Time: 5 ms
+            -  Median Response Time: 5 ms
+            -  90% Response Time: 11 ms
+            -  Status : Pass
+       - #### API Name: GraphQL
+            -  Pass count: 836510
+            -  Fail count: 0
+            -  TPS: 249.9
+            -  Average Response Time: 5 ms
+            -  Median Response Time: 5 ms 
+            -  90% Response Time: 7 ms
             -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
    
         
