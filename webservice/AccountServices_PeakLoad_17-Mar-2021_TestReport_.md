@@ -13,20 +13,20 @@
         - #### API Name: Get Charity by Account ID
             -  Pass count:15361
             -  Fail count:0
-            -  TPS:4.8
+            -  TPS: 4.8
             -  Average Response Time:5 ms
             -  Median Response Time: 5 ms
             -  90% Response Time: 216
             -  Status : Pass
              
-       - #### API Name:
-            -  Pass count:
-            -  Fail count:
-            -  TPS:
-            -  Average Response Time:
-            -  Median Response Time:
-            -  90% Response Time:
-            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
+       - #### API Name: Get Sparks Account By ID
+            -  Pass count: 420,772
+            -  Fail count: 0 
+            -  TPS: 120.3
+            -  Average Response Time: 5 ms
+            -  Median Response Time: 5 ms
+            -  90% Response Time: 315 ms
+            -  Status : Pass
        - #### API Name:
             -  Pass count:
             -  Fail count:
