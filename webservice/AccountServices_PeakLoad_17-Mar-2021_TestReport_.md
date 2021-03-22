@@ -61,15 +61,13 @@
 
     - ### Application Server  :
        - NewRelic Dashboard - [NewRelic Dashboard Link](https://gorgon.nr-assets.net/image/8a70c53e-1c72-432a-ab30-2ea4da1cb47a?format=PDF) 
-       
-       [ Account service Dashboard given for reference.Generate the PDF link and provide here .Add observations on CPU,Memory and JVM utilisation of Pods.]
- 
+              
     - ### Database Server :
-      - CPU and Memory : [Sample image given below.Add observations on CPU and Memory utilisation.]
+      - CPU and Memory : 
       
       ![Mongo DB CPU and Memory - Sample Image](../Images/MongoDB_Perf_AccountServices_PeakLoad_CPUandMemory_17-Mar-2021.png)
       
-      - DB Connections and Queues : [Sample image given below. Add observations on DB connections and Queues behaviour]. 
+      - DB Connections and Queues : 
      
       ![Mongo DB Connections and Queues - Sample Image](../Images/MongoDB_Perf_AccountServices_PeakLoad_QueuesandConnections_17-Mar-2021.png)
       
