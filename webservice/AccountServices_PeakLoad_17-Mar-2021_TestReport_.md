@@ -10,14 +10,14 @@
     
  - ## Application-side Metrics
    - ### API Response Time and TPS:
-        - #### API Name:
-            -  Pass count:
-            -  Fail count:
-            -  TPS:
-            -  Average Response Time:
-            -  Median Response Time:
-            -  90% Response Time:
-            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
+        - #### API Name: Get Charity by Account ID
+            -  Pass count:15361
+            -  Fail count:0
+            -  TPS:4.8
+            -  Average Response Time:5 ms
+            -  Median Response Time: 5 ms
+            -  90% Response Time: 216
+            -  Status : Pass
              
         - #### API Name:
             -  Pass count:
@@ -27,9 +27,31 @@
             -  Median Response Time:
             -  90% Response Time:
             -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
-
-
-      
+         - #### API Name:
+            -  Pass count:
+            -  Fail count:
+            -  TPS:
+            -  Average Response Time:
+            -  Median Response Time:
+            -  90% Response Time:
+            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
+         - #### API Name:
+            -  Pass count:
+            -  Fail count:
+            -  TPS:
+            -  Average Response Time:
+            -  Median Response Time:
+            -  90% Response Time:
+            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
+         - #### API Name:
+            -  Pass count:
+            -  Fail count:
+            -  TPS:
+            -  Average Response Time:
+            -  Median Response Time:
+            -  90% Response Time:
+            -  Status : Pass/ Fail [compare the API test result with NFR and state whether the it has passed or failed.]
+   
         
    - ### Response Time Summary :  
         
