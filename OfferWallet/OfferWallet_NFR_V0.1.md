@@ -1,1 +1,18 @@
-
+- ## 1. API Name : GET_sparks_account_details_id
+  - Source system : Ecom/App
+  - Micro Service Name : Account services
+  - Key Functionality : Interact with a sparks account details based on a unique Account ID and Returns the Basic Sparks Account details
+    - ### BAU Volumetric
+         - TPH : 290418.80
+         - Max TPS : 16
+         - Acceptable failure % :< 0.20 % 
+         - Avg Response Time : < 0.46 sec
+         - 99% Response Time : < 0.67 sec
+         - Comments: 70 % TPH of the below Peak is considered for BAU Volume
+     - ### Peak Volumetric
+         - TPH : 414884
+         - Max TPS : 23.09 [ 20 % of TPS]
+         - Acceptable failure % : 0.2 %
+         - Avg Response Time : 0.46 sec
+         - 99% Response Time : 0.67 sec
+         - Comments : Same as  GET_sparks_account_details API
