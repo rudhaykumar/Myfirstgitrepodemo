@@ -36,42 +36,42 @@
          - 99% Response Time : 0.977
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
 
-- ## 3. API Name : 
+- ## 3. API Name : Update Cards
   - Source system : Ecom/App
   - Micro Service Name : OfferWallet Services
   
     - ### BAU Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % :
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 365
+         - Max TPS : 0.1
+         - Acceptable failure % :<0.1
+         - Avg Response Time : 0.266
+         - 99% Response Time : 0.401
          - Comments: 70 % TPH of the below Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 
-         - Max TPS :  [ 20 % of TPS]
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 385
+         - Max TPS : 0.1 [ 20 % of TPS]
+         - Acceptable failure % : <0.1
+         - Avg Response Time : 0.266
+         - 99% Response Time : 0.401
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
     
-- ## 4. API Name : 
+- ## 4. API Name : Get offers
   - Source system : Ecom/App
   - Micro Service Name : OfferWallet Services
   
     - ### BAU Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % :
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 164522
+         - Max TPS : 9.14
+         - Acceptable failure % : <0.26
+         - Avg Response Time : 0.653
+         - 99% Response Time : 0.977
          - Comments: 70 % TPH of the below Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 
-         - Max TPS :  [ 20 % of TPS]
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 235032
+         - Max TPS : 13.06 [ 20 % of TPS]
+         - Acceptable failure % : 0.26
+         - Avg Response Time : 0.653
+         - 99% Response Time : 0.977
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
 - ## 5. API Name : 
   - Source system : Ecom/App
