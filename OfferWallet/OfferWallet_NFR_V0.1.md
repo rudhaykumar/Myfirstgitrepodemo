@@ -1,18 +1,94 @@
-- ## 1. API Name : GET_sparks_account_details_id
+- ## 1. API Name : 
   - Source system : Ecom/App
-  - Micro Service Name : Account services
-  - Key Functionality : Interact with a sparks account details based on a unique Account ID and Returns the Basic Sparks Account details
+  - Micro Service Name : OfferWallet Services
+  
     - ### BAU Volumetric
-         - TPH : 290418.80
-         - Max TPS : 16
-         - Acceptable failure % :< 0.20 % 
-         - Avg Response Time : < 0.46 sec
-         - 99% Response Time : < 0.67 sec
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % :
+         - Avg Response Time : 
+         - 99% Response Time : 
          - Comments: 70 % TPH of the below Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 414884
-         - Max TPS : 23.09 [ 20 % of TPS]
-         - Acceptable failure % : 0.2 %
-         - Avg Response Time : 0.46 sec
-         - 99% Response Time : 0.67 sec
-         - Comments : Same as  GET_sparks_account_details API
+         - TPH : 
+         - Max TPS :  [ 20 % of TPS]
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
+         
+- ## 2. API Name : 
+  - Source system : Ecom/App
+  - Micro Service Name : OfferWallet Services
+  
+    - ### BAU Volumetric
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % :
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments: 70 % TPH of the below Peak is considered for BAU Volume
+     - ### Peak Volumetric
+         - TPH : 
+         - Max TPS :  [ 20 % of TPS]
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
+
+- ## 3. API Name : 
+  - Source system : Ecom/App
+  - Micro Service Name : OfferWallet Services
+  
+    - ### BAU Volumetric
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % :
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments: 70 % TPH of the below Peak is considered for BAU Volume
+     - ### Peak Volumetric
+         - TPH : 
+         - Max TPS :  [ 20 % of TPS]
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
+    
+   - ## 4. API Name : 
+  - Source system : Ecom/App
+  - Micro Service Name : OfferWallet Services
+  
+    - ### BAU Volumetric
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % :
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments: 70 % TPH of the below Peak is considered for BAU Volume
+     - ### Peak Volumetric
+         - TPH : 
+         - Max TPS :  [ 20 % of TPS]
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
+         
+ - ## 5. API Name : 
+  - Source system : Ecom/App
+  - Micro Service Name : OfferWallet Services
+  
+    - ### BAU Volumetric
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % :
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments: 70 % TPH of the below Peak is considered for BAU Volume
+     - ### Peak Volumetric
+         - TPH : 
+         - Max TPS :  [ 20 % of TPS]
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
