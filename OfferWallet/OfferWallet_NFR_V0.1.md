@@ -73,23 +73,24 @@
          - Avg Response Time : 0.653
          - 99% Response Time : 0.977
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
-- ## 5. API Name : 
+         
+- ## 5. API Name : Redeemoffers
   - Source system : Ecom/App
   - Micro Service Name : OfferWallet Services
   
     - ### BAU Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % :
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 4705
+         - Max TPS : 0.26
+         - Acceptable failure % :<0.1
+         - Avg Response Time : 0.1
+         - 99% Response Time : 0.164
          - Comments: 70 % TPH of the below Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 
-         - Max TPS :  [ 20 % of TPS]
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 6722
+         - Max TPS : 0.37 [ 20 % of TPS]
+         - Acceptable failure % : <01.
+         - Avg Response Time : 0.1
+         - 99% Response Time : 0.164
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
 
 - ## 6. API Name : 
