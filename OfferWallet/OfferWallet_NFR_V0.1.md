@@ -4,36 +4,36 @@
   
     - ### BAU Volumetric
          - TPH : 352277
-         - Max TPS : 
-         - Acceptable failure % :
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - Max TPS : 19.57
+         - Acceptable failure % : < 0.19
+         - Avg Response Time : 0.627
+         - 99% Response Time : 0.918
          - Comments: 70 % TPH of the below Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 
-         - Max TPS :  [ 20 % of TPS]
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 503253 
+         - Max TPS : 27.96 [ 20 % of TPS]
+         - Acceptable failure % : 0.19
+         - Avg Response Time : 0.627
+         - 99% Response Time : 0.918
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
          
-- ## 2. API Name : 
+- ## 2. API Name : Offer Activation
   - Source system : Ecom/App
   - Micro Service Name : OfferWallet Services
   
     - ### BAU Volumetric
-         - TPH : 
-         - Max TPS : 
-         - Acceptable failure % :
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 164480
+         - Max TPS : 9.14
+         - Acceptable failure % : <0.16
+         - Avg Response Time : 0.653
+         - 99% Response Time : 0.977
          - Comments: 70 % TPH of the below Peak is considered for BAU Volume
      - ### Peak Volumetric
-         - TPH : 
-         - Max TPS :  [ 20 % of TPS]
-         - Acceptable failure % : 
-         - Avg Response Time : 
-         - 99% Response Time : 
+         - TPH : 234972
+         - Max TPS : 13.05  [ 20 % of TPS]
+         - Acceptable failure % : 0.16
+         - Avg Response Time : 0.653
+         - 99% Response Time : 0.977
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
 
 - ## 3. API Name : 
