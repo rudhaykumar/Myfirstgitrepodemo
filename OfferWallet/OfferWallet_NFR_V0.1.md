@@ -1,9 +1,9 @@
-- ## 1. API Name : 
+- ## 1. API Name : Aggregate User Details
   - Source system : Ecom/App
   - Micro Service Name : OfferWallet Services
   
     - ### BAU Volumetric
-         - TPH : 
+         - TPH : 352277
          - Max TPS : 
          - Acceptable failure % :
          - Avg Response Time : 
