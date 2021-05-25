@@ -61,18 +61,18 @@
   - Micro Service Name : OfferWallet Services
   
     - ### BAU Volumetric
-         - TPH : <<TBF  >>
-         - Max TPS : <<TBF >>
-         - Acceptable failure % :<<TBF >>
-         - Avg Response Time : <<TBF>>
-         - 99% Response Time : <<TBF>>
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % :
+         - Avg Response Time : 
+         - 99% Response Time : 
          - Comments: The NFR will be filled as we get to have more clarity.
      - ### Peak Volumetric
-         - TPH : <<TBF>>
-         - Max TPS : <<TBF>>
-         - Acceptable failure % : <<TBF>>
-         - Avg Response Time : <<TBF>>
-         - 99% Response Time : <<TBF>>
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
          - Comments : The NFR will be filled as we get to have more clarity.
 
 
