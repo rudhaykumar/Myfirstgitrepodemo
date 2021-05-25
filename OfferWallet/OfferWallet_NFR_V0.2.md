@@ -17,7 +17,7 @@
          - 99% Response Time : 0.977
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
     
-- ## 4. API Name : Get offers
+- ## 2. API Name : Get offers
   - Source system : Ecom/App
   - Micro Service Name : OfferWallet Services
   
@@ -36,7 +36,7 @@
          - 99% Response Time : 0.977
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM. The TPH is the cumulative value of Aggregare user details, getoffers and Checkout offers.
          
-- ## 5. API Name : Redeemoffers
+- ## 3. API Name : Redeemoffers
   - Source system : Ecom/App
   - Micro Service Name : OfferWallet Services
   
@@ -54,6 +54,27 @@
          - Avg Response Time : 0.1
          - 99% Response Time : 0.164
          - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
+        
+        
+  - ## 4. API Name : Offer Allocation
+  - Source system : Ecom/App
+  - Micro Service Name : OfferWallet Services
+  
+    - ### BAU Volumetric
+         - TPH : <TBF>
+         - Max TPS : <TBF>
+         - Acceptable failure % :<TBF>
+         - Avg Response Time : <TBF>
+         - 99% Response Time : <TBF>
+         - Comments: The NFR will be filled as we get to have more clarity.
+     - ### Peak Volumetric
+         - TPH : <TBF>
+         - Max TPS : <TBF>
+         - Acceptable failure % : <TBF>
+         - Avg Response Time : <TBF>
+         - 99% Response Time : <TBF>
+         - Comments : The NFR will be filled as we get to have more clarity.
+
 
 
    
