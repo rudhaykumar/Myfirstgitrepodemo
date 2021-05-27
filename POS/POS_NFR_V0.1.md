@@ -18,7 +18,7 @@
          - 99% Response Time : 0.0002
          - Comments : The NFR metrics taken on 20-Dec-2020 12:30 PM to 1:30 PM. These are NFR numbers obtained during covid pandemic. Few shops in UK were closed and so these              numbers may need to be extrapolated.
 
-  - ## 2. API Name : Account-status-and-eligibility
+- ## 2. API Name : Account-status-and-eligibility
   - Source system : POS
   - Micro Service Name : POS Orchestration
   
