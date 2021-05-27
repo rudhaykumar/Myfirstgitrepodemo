@@ -1,37 +1,38 @@
-- ## 1. API Name : Offer Activation
-  - Source system : Ecom/App
-  - Micro Service Name : OfferWallet Services
+- ## 1. API Name : SanityCheck
+  - Source system : POS
+  - Micro Service Name : POS Orchestration
   
     - ### BAU Volumetric
-         - TPH : 164480
-         - Max TPS : 9.14
-         - Acceptable failure % : <0.16
-         - Avg Response Time : 0.653
-         - 99% Response Time : 0.977
-         - Comments: 70 % TPH of the below Peak is considered for BAU Volume
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % : 
+         - Avg Response Time :
+         - 99% Response Time : 
+         - Comments :
+         
      - ### Peak Volumetric
-         - TPH : 234972
-         - Max TPS : 13.05  [ 20 % of TPS]
-         - Acceptable failure % : 0.16
-         - Avg Response Time : 0.653
-         - 99% Response Time : 0.977
-         - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM
+         - TPH : 
+         - Max TPS : 
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments : 
     
 - ## 2. API Name : Get offers
   - Source system : Ecom/App
   - Micro Service Name : OfferWallet Services
   
     - ### BAU Volumetric
-         - TPH : 740217
-         - Max TPS : 41.12 [ 20 % of TPS]
-         - Acceptable failure % :0.19%
-         - Avg Response Time : 0.653
-         - 99% Response Time : 0.977
-         - Comments: 70 % TPH of the below Peak is considered for BAU Volume.The TPH is the cumulative value of Aggregare user details, getoffers and Checkout offers.
+         - TPH : 
+         - Max TPS : [ 20 % of TPS]
+         - Acceptable failure % 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments: 
      - ### Peak Volumetric
-         - TPH : 1057453
-         - Max TPS : 58.75 [ 20 % of TPS]
-         - Acceptable failure % : 0.19%
-         - Avg Response Time : 0.653
-         - 99% Response Time : 0.977
-         - Comments : 25-Mar-2021 , Peak time window - 10:30 AM till 11:30 AM. The TPH is the cumulative value of Aggregare user details, getoffers and Checkout offers.
+         - TPH : 
+         - Max TPS :  [ 20 % of TPS]
+         - Acceptable failure % : 
+         - Avg Response Time : 
+         - 99% Response Time : 
+         - Comments : 
