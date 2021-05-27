@@ -18,9 +18,9 @@
          - 99% Response Time : 
          - Comments : 
     
-- ## 2. API Name : Get offers
-  - Source system : Ecom/App
-  - Micro Service Name : OfferWallet Services
+- ## 2. API Name : Account-status-and-eligibility
+  - Source system : POS
+  - Micro Service Name : POS Orchestration
   
     - ### BAU Volumetric
          - TPH : 
