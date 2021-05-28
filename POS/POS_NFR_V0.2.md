@@ -4,7 +4,8 @@
   
     - ### BAU Volumetric
          - TPH : 4474
-         - Max TPS : 0.25 [ 20 % of TPS]
+         - TPS : 1.24
+         - Max TPS : 1.62 [ 130 % of TPS]
          - Acceptable failure % : 0
          - Avg Response Time : 0.0002
          - 99% Response Time : 0.0002
@@ -12,7 +13,8 @@
          
      - ### Peak Volumetric
          - TPH : 6391
-         - Max TPS : 0.36  [ 20 % of TPS]
+         - TPS : 1.78
+         - Max TPS : 2.31  [ 130 % of TPS]
          - Acceptable failure % :0 
          - Avg Response Time : 0.0002
          - 99% Response Time : 0.0002
@@ -24,7 +26,8 @@
   
     - ### BAU Volumetric
          - TPH : 44302 
-         - Max TPS : 2.46 [ 20 % of TPS]
+         - TPS : 12.31
+         - Max TPS : 16.00  [ 130 % of TPS]
          - Acceptable failure % 0
          - Avg Response Time : 0.393
          - 99% Response Time : 0.462
@@ -32,7 +35,8 @@
          
      - ### Peak Volumetric
          - TPH : 63288
-         - Max TPS : 3.52  [ 20 % of TPS]
+         - TPS : 17.58
+         - Max TPS : 22.85  [ 130 % of TPS]
          - Acceptable failure % : 0
          - Avg Response Time : 0.393
          - 99% Response Time : 0.462
