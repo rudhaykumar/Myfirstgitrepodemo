@@ -6,19 +6,25 @@
          - TPH : 4474
          - TPS : 1.24
          - Max TPS : 1.62 [ 130 % of TPS]
+         - Extrapolated TPH : 22370
+         - Extrapolated TPS : 6.2
+         - Extrapolated Max TPS : 8.1
          - Acceptable failure % : 0
          - Avg Response Time : 0.0002
          - 99% Response Time : 0.0002
-         - Comments : This is 70% of peak volume and the peak volumetric that is obtained on 20-Dec-2020 12:30 PM to 1:30 PM.These are NFR numbers obtained during covid                    pandemic. Few shops in UK were closed and so these numbers may need to be extrapolated.
+         - Comments : This is 70% of peak volume and the peak volumetric that is obtained on 20-Dec-2020 12:30 PM to 1:30 PM.These are NFR numbers obtained during covid                    pandemic. Few shops in UK were closed and so these numbers  need to be extrapolated.The base TPH and TPS are 5 times extrapolated to get the NFR for Post pandemic                scenario
          
      - ### Peak Volumetric
          - TPH : 6391
          - TPS : 1.78
          - Max TPS : 2.31  [ 130 % of TPS]
+         - Extrapolated TPH : 31955
+         - Extrapolated TPS : 8.9
+         - Extrapolated Max TPS : 11.55
          - Acceptable failure % :0 
          - Avg Response Time : 0.0002
          - 99% Response Time : 0.0002
-         - Comments : The NFR metrics taken on 20-Dec-2020 12:30 PM to 1:30 PM. These are NFR numbers obtained during covid pandemic. Few shops in UK were closed and so these              numbers may need to be extrapolated.
+         - Comments : The NFR metrics taken on 20-Dec-2020 12:30 PM to 1:30 PM. These are NFR numbers obtained during covid pandemic. Few shops in UK were closed and so these              numbers need to be extrapolated.The base TPH and TPS are 5 times extrapolated to get the NFR for Post pandemic scenario
 
 - ## 2. API Name : Account-status-and-eligibility
   - Source system : POS
