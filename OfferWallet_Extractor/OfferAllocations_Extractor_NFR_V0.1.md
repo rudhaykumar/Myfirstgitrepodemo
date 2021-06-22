@@ -2,11 +2,11 @@
   - Source system : Multiple systems - > Kafka
   - Micro Service Name : OfferWallet Services
   
-    - ### BAU Volumetric - New Offers
-         - No of New Offers per Hour: 18 / Hour
-         - No of New Offers per day : 70/ Day
+    - ### BAU Volumetric - TMO Offers
+         - No of TMO Offers : < -TBF ->
+         - Batch Window Time :
          
-     - ### BAU Volumetric - Update Offers
+     - ### BAU Volumetric - FPO Offers
          - No of Update Offers per Hour: 36 / Hour
          - No of Update Offers per day : 150/ Day
                   
