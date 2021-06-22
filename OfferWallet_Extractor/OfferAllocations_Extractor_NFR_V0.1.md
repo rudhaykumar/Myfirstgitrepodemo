@@ -8,14 +8,14 @@
          - Batch Window Time : < -TBF ->
          
       - #### FPO Offers
-         - No of TMO Offers : < -TBF ->
-         - Batch Window Time : < -TBF ->
-                  
-      - ### Peak Volumetric - New Offers
-         - No of New Offers per Hour: N/A
-         - No of New Offers per day : N/A
+         - No of FPO Offers : < -TBF ->
+         - Batch Window Time : < -TBF ->         
+                       
+      - ### Peak Volumetric 
+       - #### TMO Offers
+         - No of TMO Offers : 10 Million users * 8 offers ==> 80 M offers
+         - Batch Window Time : 4 Hours
          
-       - ### Peak Volumetric - Update Offers
-         - No of New Offers per Hour: 100 / Hour
-         - No of New Offers per day : 800 / day
-
+      - #### FPO Offers
+         - No of FPO Offers : 6 Million users * 8 offers ==> 48 M offers
+         - Batch Window Time : < -TBF ->
