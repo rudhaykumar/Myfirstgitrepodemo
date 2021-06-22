@@ -1,5 +1,5 @@
 - ## 1. Extractor Name : Offers Extractor
-  - Source system : OMP  - Kafka
+  - Source system : OMP  -> Kafka
   - Micro Service Name : OfferWallet Services
   
     - ### BAU Volumetric - New Offers
