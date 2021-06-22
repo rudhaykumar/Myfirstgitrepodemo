@@ -13,8 +13,8 @@
                   
       - ### Peak Volumetric 
       - ##### New Offers
-         - No of New Offers per Hour: N/A
-         - No of New Offers per day : N/A
+         - No of New Offers per Hour: 36 / Hour
+         - No of New Offers per day : 150/ Day
          
        - ##### Update Offers
          - No of New Offers per Hour: 100 / Hour
