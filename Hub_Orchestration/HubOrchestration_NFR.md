@@ -4,7 +4,7 @@
   
     - ### BAU Volumetric
          - TPH : 290418.8
-         - TPS : 80.6718888889
+         - TPS : 80.67
          - Max TPS : 104.8 [ 130 % of TPS]
          - Total number of failures: 965
          - Acceptable failure % : 0.23%
