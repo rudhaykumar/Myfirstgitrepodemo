@@ -6,7 +6,6 @@
          - TPH : 290418.8
          - TPS : 80.6718888889
          - Max TPS :  [ 130 % of TPS]
-         - Extrapolated TPH : 
          - Total number of failures: 965
          - Acceptable failure % : 0.23%
          - Avg Response Time : 0.3 secs
